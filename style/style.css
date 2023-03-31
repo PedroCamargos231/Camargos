@@ -108,7 +108,8 @@ body{
 }
 
 .apresentacao__links__link:hover{
-    background-color: var(--cor-rover);
+    background-color: var(--cor-tercearia);
+    filter: brightness(100%);
 }
 
 .rodape{
