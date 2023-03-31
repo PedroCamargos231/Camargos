@@ -109,7 +109,13 @@ body{
 
 .apresentacao__links__link:hover{
     background-color: var(--cor-tercearia);
-    filter: brightness(100%);
+    
+    
+}
+ .apresentacao__links__link__img:hover{
+     filter: brightness(100%);
+
+ 
 }
 
 .rodape{
